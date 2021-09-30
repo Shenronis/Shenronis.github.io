@@ -1,2 +1,2 @@
-# shenronis.github.io
+# shenronis
 Websites repo
